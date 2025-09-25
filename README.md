@@ -65,9 +65,9 @@ printf("%c", plain[i]);
 plain[length] = '\0';
 }
 ~~~
-
 ## OUTPUT:
-<img width="1744" height="882" alt="image" src="https://github.com/user-attachments/assets/eb11a7e3-fa81-45e0-a79f-d01c02a1e6a7" />
+<img width="1727" height="860" alt="Screenshot 2025-09-25 091812" src="https://github.com/user-attachments/assets/d900d0d0-b3e9-444d-940d-1137bb3339b0" />
+
 
 
 ## RESULT :
